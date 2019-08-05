@@ -1,0 +1,2 @@
+# jna-springboot
+在spring boot中测试jna的官方示例，发现在IDE中printf打印不出东西，打成jar包后printf可以使用
